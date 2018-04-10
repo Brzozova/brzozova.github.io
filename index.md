@@ -1,12 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/Brzozova/brzozova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by Girls.js to discover I prefer to write a code. After workshops I join to local organisation called "Code for Poznań", where I was able to complete Django workshop.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When I'm not coding and hacking you'll find me meditating, running, eating, practicing yoga or spending time with family.
 
-### Markdown
+I can describe myself as a self-reliant, flexible, very organized and self-motivated person.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I speak polish and english as well.
+
+
+### My projects
+
+1 Blog
+
+
+### My skills
+
+# Systems
+Windows 7/10
+Linux/Ubuntu
+
+# Front-end Development
+HTML5
+CSS3
+JavaScript
+AngularJS
+
+# Back-end Development
+Python
+Django
+
+# Tools
+GIT
+Docker
+
+# IT Security
+
+# Databases
+SQL
+
+# Other
+
 
 ```markdown
 Syntax highlighted code block
