@@ -24,7 +24,7 @@ Keywords: #Python, #Django, #GIT, #JavaScript, #ComputerScience
 |Area | Skill         | LVL   |
 | ------------- |:-------------:|------:|
 | Back-end | Python        | Geek  |
-| Back-end framework |Django        | Newbie|
+| Back-end framework |Django        | Geek|
 |  Tool  |GIT           | Ninja |
 | Front-end | HTML5         | Geek  |
 | Front-end | CSS3          | Geek  |
