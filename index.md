@@ -1,4 +1,4 @@
-## Welcome to my page
+## About me
 
 I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by Girls.js to discover I prefer to write a code. After workshops I join to local organisation called "Code for Poznań", where I was able to complete Django workshop.
 
@@ -11,27 +11,27 @@ I speak polish and english as well.
 
 ### My projects
 
-1 Blog
+#### Blog about IT Security / Pentesting
+Keywords: #Threats #Malwares #PrentestingTools #HTTPS
+
+#### Blog about programming
+Keywords: #Python, #Django, #GIT, #JavaScript, #ComputerScience
 
 
 ### My skills
 
 
-| Skill         | LVL   |
-| ------------- |------:|
-| Python        | Geek  |
-| Django        | Newbie|
-| GIT           | Ninja |
-| HTML5         | Geek  |
-| CSS3          | Geek  |
-| JavaScript    | Newbie|
-| AngularJS     | Newbie|
-| SQL           | Geek  |
+|Area | Skill         | LVL   |
+| ------------- |:-------------:|------:|
+| Back-end | Python        | Geek  |
+| Back-end framework |Django        | Newbie|
+|  Tool  |GIT           | Ninja |
+| Front-end | HTML5         | Geek  |
+| Front-end | CSS3          | Geek  |
+| Front-end |JavaScript    | Newbie|
+| Front-end framework|AngularJS     | Newbie|
+| Databases | SQL           | Geek  |
 
-Skill | Level | 
---- | --- |
-**Python** | **Geek** |
-1 | 2 |
 
 #### Systems
 Windows 7/10
@@ -43,30 +43,3 @@ Linux/Ubuntu
 #### Other
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brzozova/brzozova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
