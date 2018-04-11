@@ -28,6 +28,11 @@ I speak polish and english as well.
 | AngularJS     | Newbie|
 | SQL           | Geek  |
 
+Skill | Level | 
+--- | --- |
+**Python** | **Geek** |
+1 | 2 |
+
 #### Systems
 Windows 7/10
 Linux/Ubuntu
