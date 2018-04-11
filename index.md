@@ -16,30 +16,30 @@ I speak polish and english as well.
 
 ### My skills
 
-# Systems
+#### Systems
 Windows 7/10
 Linux/Ubuntu
 
-# Front-end Development
+#### Front-end Development
 HTML5
 CSS3
 JavaScript
 AngularJS
 
-# Back-end Development
+#### Back-end Development
 Python
 Django
 
-# Tools
+#### Tools
 GIT
 Docker
 
-# IT Security
+#### IT Security
 
-# Databases
+#### Databases
 SQL
 
-# Other
+#### Other
 
 
 ```markdown
