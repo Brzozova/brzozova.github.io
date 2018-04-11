@@ -16,28 +16,24 @@ I speak polish and english as well.
 
 ### My skills
 
+
+| Skill         | LVL   |
+| ------------- |------:|
+| Python        | Geek  |
+| Django        | Newbie|
+| GIT           | Ninja |
+| HTML5         | Geek  |
+| CSS3          | Geek  |
+| JavaScript    | Newbie|
+| AngularJS     | Newbie|
+| SQL           | Geek  |
+
 #### Systems
 Windows 7/10
 Linux/Ubuntu
 
-#### Front-end Development
-HTML5
-CSS3
-JavaScript
-AngularJS
-
-#### Back-end Development
-Python
-Django
-
-#### Tools
-GIT
-Docker
-
 #### IT Security
 
-#### Databases
-SQL
 
 #### Other
 
