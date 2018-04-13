@@ -1,8 +1,8 @@
 ## About me
 
-I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by Girls.js to discover I prefer to write a code. After workshops I join to local organisation called "Code for Poznań", where I was able to complete Django workshop.
+I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by Girls.js to discover I prefer to write a code. After workshops I join to local organisation called "Code for Poznań", where I was able to complete Django and AngularJS workshops.
 
-When I'm not coding and hacking you'll find me meditating, running, eating, practicing yoga or spending time with family.
+When I'm not coding and hacking you'll find me running, eating, practicing yoga or spending time with family.
 
 I can describe myself as a self-reliant, flexible, very organized and self-motivated person.
 
@@ -11,10 +11,10 @@ I speak polish and english as well.
 
 ### My projects
 
-#### Blog about IT Security / Pentesting
-Keywords: #Threats #Malwares #PrentestingTools #HTTPS
+##### Blog about IT Security / Pentesting
+Keywords: #Threats #Malwares #PrentestingTools #Risks #OWASPTop10
 
-#### Blog about programming
+##### Blog about programming
 Keywords: #Python, #Django, #GIT, #JavaScript, #ComputerScience
 
 
