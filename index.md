@@ -17,6 +17,10 @@ Keywords: #Threats #Malwares #PrentestingTools #Risks #OWASPTop10
 ##### Blog about programming
 Keywords: #Python, #Django, #GIT, #JavaScript, #ComputerScience
 
+### My achievements
+
+##### Hacking rankings
+Hackthissite.org: 173 punkty
 
 ### My skills
 
