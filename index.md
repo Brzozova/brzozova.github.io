@@ -1,4 +1,4 @@
-# -- PYTHON -- DJANGO -- IT SECURITY --
+# -- PYTHON -- IT SECURITY --
 
 ## About me
 
