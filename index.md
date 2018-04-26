@@ -14,10 +14,11 @@ I speak polish and english as well.
 ### My projects
 
 ##### Blog about IT Security / Pentesting
-Keywords: #Threats #Malwares #PrentestingTools #Risks #OWASPTop10
+Keywords: #Threats #Malwares #PrentestingTools #Risks #OWASPTop10.
 
-##### Blog about programming
-Keywords: #Python, #Django, #GIT, #JavaScript, #ComputerScience
+##### Blog Pythonistka
+Website: pythonistka.wordpress.com
+Keywords: #Python, #Django, #GIT, #JavaScript.
 
 ### My achievements
 
@@ -46,6 +47,7 @@ Linux/Ubuntu
 
 #### IT Security
 Testing Web Apps Security
+
 Good understanding of TCP/IP and associated protocols (like DNS, SSL/TLS, IPv6, Routing)
 
 
