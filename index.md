@@ -4,7 +4,7 @@
 
 I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by Girls.js to discover I prefer to write a code. After workshops I join to local organisation called "Code for Poznań", where I was able to complete Django and AngularJS workshops.
 
-When I'm not coding and hacking you'll find me running, eating, practicing yoga or spending time with family.
+When I'm not coding and hacking you'll find me running, eating, practicing yoga and reading books.
 
 I can describe myself as a self-reliant, flexible, very organized and self-motivated person.
 
@@ -22,9 +22,9 @@ Keywords: #Python, #Django, #GIT, #JavaScript.
 
 ### My achievements
 
-##### Hacking rankings
+##### Hacking challenges
 Hackthissite.org: 173 punkty (JavaScript mission)
-Rozwal.to: 201 punktów (SQL Injection)
+Rozwal.to: 201 punktów (SQL Injection mission)
 
 ### My skills
 
@@ -47,9 +47,9 @@ Linux/Ubuntu
 
 #### IT Security
 Testing Web Apps Security
-
+Bezpieczeńśtwo Aplikacji Internetowych
+Web Application Exploits and Defenses
 Good understanding of TCP/IP and associated protocols (like DNS, SSL/TLS, IPv6, Routing)
-
 
 
 #### Other
