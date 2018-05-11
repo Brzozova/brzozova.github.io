@@ -29,14 +29,14 @@ Rozwal.to: 201 points (SQL Injection mission)
 ### MY SKILLS
 
 
-|Basic lvl| Good vl         | Very good lvl  |
+|Basic lvl| Good vl         |  |
 | ------------- |:-------------:|------:|
 | JavaScript | Python        |  |
 | AngularJS |Django        | |
 |  SQL | GIT        |  |
 | HTML | Bash         |  |
 | CSS | Command Prompt        | |
-
+| Docker |  |
 
 
 #### Systems
