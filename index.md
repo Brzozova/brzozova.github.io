@@ -11,7 +11,7 @@ I can describe myself as a self-reliant, flexible, very organized and self-motiv
 I speak polish and english as well.
 
 
-### My projects
+### MY PROJECTS
 
 ##### Blog about IT Security / Pentesting
 Keywords: #Threats #Malwares #PrentestingTools #Risks #OWASPTop10.
@@ -23,12 +23,11 @@ Keywords: #Python, #Django, #GIT, #JavaScript.
 ### My achievements
 
 ##### Hacking challenges
-Hackthissite.org: 173 punkty (JavaScript mission)
-Rozwal.to: 201 punktów (SQL Injection mission)
+Hackthissite.org: 173 points (JavaScript mission)
+Rozwal.to: 201 points (SQL Injection mission)
 
-### My skills
+### MY SKILLS
 
-Knowledge level
 
 |Basic lvl| Good vl         | Very good lvl  |
 | ------------- |:-------------:|------:|
@@ -41,7 +40,7 @@ Knowledge level
 
 
 #### Systems
-Windows 7/10
+Windows 7/10  || 
 Linux/Ubuntu
 
 #### IT Security
@@ -51,6 +50,5 @@ Linux/Ubuntu
 * Good understanding of TCP/IP and associated protocols (like DNS, SSL/TLS, IPv6, Routing)
 
 
-#### Other
 
 
