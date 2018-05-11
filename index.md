@@ -8,7 +8,7 @@ When I'm not coding and hacking you'll find me running, practicing yoga and writ
 
 I can describe myself as a self-reliant, flexible, very organized and self-motivated person.
 
-I speak polish and english as well.
+I speak polish and english as well. I am also french language enthusiast.
 
 
 ### MY PROJECTS
