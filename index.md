@@ -28,21 +28,16 @@ Rozwal.to: 201 punktów (SQL Injection mission)
 
 ### My skills
 
-Knowledge level:
-* * * * Expert
-* * *  Very good
-* * Good
-* Basics
+Knowledge level
 
-Python * *
-Django * *
-JavaScript *
-AngularJS *
-SQL *
+|Basic lvl| Good vl         | Very good lvl  |
+| ------------- |:-------------:|------:|
+| JavaScript | Python        |  |
+| AngularJS |Django        | |
+|  SQL | GIT        |  |
+| HTML | Bash         |  |
+| CSS | Command Prompt        | |
 
-GIT * *
-Bash * *
-Windows command line * *
 
 
 #### Systems
