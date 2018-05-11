@@ -2,9 +2,9 @@
 
 ## About me
 
-I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django and AngularJS workshops.
+I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops. Since May I am programming in Python for `Code for Poznań`. I am also a mentor at DjangoGirls workshops in August '18.
 
-When I'm not coding and hacking you'll find me running, eating, practicing yoga and reading books.
+When I'm not coding and hacking you'll find me running, practicing yoga and writing blogs.
 
 I can describe myself as a self-reliant, flexible, very organized and self-motivated person.
 
