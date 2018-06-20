@@ -4,7 +4,7 @@
 
 I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops. Since May I am programming in Python for `Code for Poznań`. I am also a mentor at `DjangoGirls` workshops in August '18.
 
-I am also customer relations specialist with over 6 years of experience in several fields such as automotive, e-commerce, financial.
+I am customer relations specialist with over 6 years of experience in several fields such as automotive, e-commerce, financial.
 
 When I'm not coding and hacking you'll find me running, practicing yoga and writing blogs.
 
@@ -22,7 +22,6 @@ IT Projest Management (Poznań School of Banking)
 Keywords: #Threats #Malwares #PrentestingTools #Risks #OWASPTop10.
 
 ##### Blog Pythonistka
-Website: 
 Keywords: #Python, #Django, #GIT, #JavaScript.
 
 ### My achievements
@@ -34,18 +33,18 @@ Rozwal.to: 201 points (SQL Injection mission)
 ### MY SKILLS
 
 
-|Basic lvl| Good vl         |  |
+|Basic lvl| Good lvl         |  |
 | ------------- |:-------------:|------:|
 | JavaScript | Python        |  |
 | AngularJS |Django        | |
 |  SQL | GIT        |  |
 | HTML | Bash         |  |
-| CSS | Command Prompt        | |
+| CSS |      | |
 | Docker |  |
 
 
 #### Systems
-Windows 7/10  || 
+Windows 7/8/10  || 
 Linux/Ubuntu
 
 #### IT Security
