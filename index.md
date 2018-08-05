@@ -14,7 +14,7 @@ I speak polish and english as well. I am also french language enthusiast.
 
 #### Education
 Software Engineering (Poznań University of Technology)
-IT Projest Management (Poznań School of Banking)
+IT Project Management (Poznań School of Banking)
 
 ### MY PROJECTS
 
@@ -22,7 +22,7 @@ IT Projest Management (Poznań School of Banking)
 Keywords: #Threats #Malwares #PrentestingTools #Risks #OWASPTop10.
 
 ##### Blog Pythonistka
-Keywords: #Python, #Django, #GIT, #JavaScript.
+Keywords: #Python, #Django, #GIT, #Data_analysis_with_Python
 
 ### My achievements
 
@@ -36,7 +36,7 @@ Rozwal.to: 201 points (SQL Injection mission)
 |Basic lvl| Good lvl         |  |
 | ------------- |:-------------:|------:|
 | JavaScript | Python        |  |
-| AngularJS |Django        | |
+| jSON |Django        | |
 |  SQL | GIT        |  |
 | HTML | Bash         |  |
 | CSS |      | |
@@ -46,13 +46,4 @@ Rozwal.to: 201 points (SQL Injection mission)
 #### Systems
 Windows 7/8/10  || 
 Linux/Ubuntu
-
-#### IT Security
-* Testing Web Apps Security
-* Bezpieczeńśtwo Aplikacji Internetowych
-* Web Application Exploits and Defenses
-* Good understanding of TCP/IP and associated protocols (like DNS, SSL/TLS, IPv6, Routing)
-
-
-
 
