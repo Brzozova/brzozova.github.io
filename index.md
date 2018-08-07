@@ -1,4 +1,4 @@
-# -- PYTHON -- IT SECURITY --
+# -- PYTHON -- DATA ANALYSIS -- CYBERSECURITY --
 
 ## About me
 
