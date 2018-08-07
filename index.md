@@ -31,17 +31,8 @@ Hackthissite.org: 173 points (JavaScript mission)
 Rozwal.to: 201 points (SQL Injection mission)
 
 ### MY SKILLS
-
-
-|Basic lvl| Good lvl         |  |
-| ------------- |:-------------:|------:|
-| JavaScript | Python        |  |
-| jSON |Django        | |
-|  SQL | GIT        |  |
-| HTML | Bash         |  |
-| CSS |      | |
-| Docker |  |
-
+Languages: Python (Django, Pandas, Numpy), SQL, JavaScript(basics).
+Tools: Atom, IPython, GIT, Docker.
 
 #### Systems
 Windows 7/8/10  || 
