@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm self-taught passionate about IT world, but above all I'm interested in Python and IT security field. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops. Since April '18 i cooperate with `Code for Poznań`. I am also a mentor at `DjangoGirls` workshops in August '18.
+I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18.
 
 I have over 6 years of experience in several fields such as automotive, e-commerce, financial, pharmaceutic.
 
@@ -18,6 +18,9 @@ IT Project Management (Poznań School of Banking)
 
 ### MY PROJECTS
 
+##### CTF game web application
+Keywords: #Python, #Django, #GIT, #CaptureTheFlag
+
 ##### Blog about IT Security / Pentesting
 Keywords: #Threats #Vulnerabilities #PrentestingTools #OWASPTop10.
 
@@ -29,10 +32,11 @@ Keywords: #Python, #Django, #GIT, #Cybersecurity_in_Python
 ##### Hacking challenges
 Hackthissite.org: 173 points (JavaScript mission)
 Rozwal.to: 201 points (SQL Injection mission)
+CyberTalents.com: 400 points
 
 ### MY SKILLS
-Languages: Python (Django, Flask, Pandas, Numpy), SQL, JavaScript(basics).
-Tools: Atom, IPython, GIT, Docker.
+Languages: Python (Django, Flask, Pandas, Numpy), SQL, JavaScript(basics), Bash.
+Tools: Atom, IPython, GIT.
 
 #### Systems
 Windows 7/8/10  || 
