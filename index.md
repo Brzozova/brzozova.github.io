@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18.
+I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18. Currently I work in big technology company as Application Support Specialist, so I'm responsible for access management, troubleshooting, incident management, using tools such as CentOS (Linux), Oracle dba (SQL).
 
 I have over 6 years of experience in several fields such as automotive, e-commerce, financial, pharmaceutic.
 
