@@ -26,6 +26,8 @@ I speak polish and english as well. I am also french language enthusiast.
 - Networking, TCP/IP, OSI, etc.
 - IT project management
 - basic automatization in Bash and Python
+- virtualization with VirtualBox
+- pentesting using Kali Linux
 
 ### Education
 Software Engineering (Poznań University of Technology)
