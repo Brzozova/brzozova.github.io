@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18. Currently I work in big technology company as Application Support Specialist, so I'm responsible for access management, troubleshooting, incident management, using tools such as CentOS (Linux), Oracle dba (SQL).
+I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18. Currently I work in technology company as Application Support Specialist mostly with CentOS (Linux), Oracle database, SQL.
 
 I have over 6 years of experience in several fields such as automotive, e-commerce, financial, pharmaceutic.
 
@@ -12,9 +12,25 @@ I can describe myself as a self-reliant, flexible, very organized and self-motiv
 
 I speak polish and english as well. I am also french language enthusiast.
 
-#### Education
+### Experienced with:
+- web development in Python and Django
+- Oracle database using SQL
+- Linux administration (access management, incident management, problem management)
+- Agile and Scrum
+- technical support in English
+- ServiceNow
+- creating documentation in English
+
+### Knowledge about:
+- Linux hardening, security
+- Networking, TCP/IP, OSI, etc.
+- IT project management
+- basic automatization in Bash and Python
+
+### Education
 Software Engineering (Poznań University of Technology)
 IT Project Management (Poznań School of Banking)
+
 
 ### MY PROJECTS
 
@@ -27,6 +43,7 @@ Keywords: #Threats #Vulnerabilities #PrentestingTools #OWASPTop10.
 ##### Blog Pythonistka
 Keywords: #Python, #Django, #GIT, #Cybersecurity_in_Python
 
+
 ### My achievements
 
 ##### Hacking challenges
@@ -35,10 +52,10 @@ Rozwal.to: 201 points (SQL Injection mission)
 CyberTalents.com: 400 points
 
 ### MY SKILLS
-Languages: Python (Django, Flask, Pandas, Numpy), SQL, JavaScript(basics), Bash.
+Languages: Python (Django, Flask), SQL, JavaScript(basics), Bash.
 Tools: Atom, IPython, GIT.
 
 #### Systems
 Windows 7/8/10  || 
-Linux/Ubuntu
+Linux: Ubuntu, CentOS
 
