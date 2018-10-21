@@ -20,6 +20,7 @@ I speak polish and english as well. I am also french language enthusiast.
 - technical support in English
 - ServiceNow
 - creating documentation in English
+- software testing: user stories
 
 ### Knowledge about:
 - Linux hardening, security
@@ -28,6 +29,7 @@ I speak polish and english as well. I am also french language enthusiast.
 - basic automatization in Bash and Python
 - virtualization with VirtualBox
 - pentesting using Kali Linux
+
 
 ### Education
 Software Engineering (Poznań University of Technology)
