@@ -12,15 +12,25 @@ I can describe myself as a self-reliant, flexible, very organized and self-motiv
 
 I speak polish and english as well. I am also french language enthusiast.
 
+I was working in automotive, telecom, e-commerce, IT inducties. Currently I work for gambling & casinos industry.
+
+I have hands-on SysOps/DevOps experience as Linux System Administrator.
+
 ### Experienced with:
-- web development in Python and Django
-- Oracle database using SQL
-- Linux administration (access management, incident management, problem management)
-- Agile and Scrum
+- web development (Python, Django)
+- Linux/Unix system adminsitration (Ubuntu, RedHat, CentOS, Debian)
+- networking (TCP/IP, OSI, protocols, routing, VPN)
+- system monitoring (Zabbix, Monit)
+- data analysis and visualization (Excel, Grafana)
+- automation/configuration management (Ansible)
+- cloud computing platforms (AWS, GCP)
+- virtualization (VirtualBox)
+- orchestrization (Docker)
+- IT projects methodologies (Agile, Scrum, XP, Waterfall)
 - technical support in English
-- ServiceNow
-- creating documentation in English
-- software testing: user stories
+- ticketing system/reporting (ServiceNow)
+- preparing technical documentation in English
+- software testing
 
 ### Knowledge about:
 - Linux hardening, security
@@ -32,8 +42,8 @@ I speak polish and english as well. I am also french language enthusiast.
 
 
 ### Education
-Software Engineering (Poznań University of Technology)
-IT Project Management (Poznań School of Banking)
+- Software Engineering (Poznań University of Technology)
+- IT Project Management (Poznań School of Banking)
 
 
 ### MY PROJECTS
@@ -61,5 +71,5 @@ Tools: Atom, IPython, GIT.
 
 #### Systems
 Windows 7/8/10  || 
-Linux: Ubuntu, CentOS
+Linux: Ubuntu, CentOS, RedHat, Debian
 
