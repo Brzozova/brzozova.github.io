@@ -1,4 +1,4 @@
-# -- PYTHON -- CYBERSECURITY --
+# -- SYSOPS --
 
 ## About me
 
@@ -47,19 +47,16 @@ I have hands-on SysOps/DevOps experience with Linux servers management (provisio
 
 ### MY PROJECTS
 
-##### Blog about IT Security / Pentesting
-Keywords: #Threats #Vulnerabilities #PrentestingTools #OWASPTop10.
-
-##### Blog Pythonistka
-[pythonistka.wordpress.com]
-Keywords: #Python, #Django, #GIT, #Cybersecurity_in_Python
+#### Blog Pythonistka
+[pythonistka.wordpress.com](https://pythonistka.wordpress.com/)
+Keywords: #Python, #Django, #Ansible, #Cybersecurity 
 
 
 ### My achievements
 
-##### Hacking challenges
-Hackthissite.org: 173 points (JavaScript mission)
-Rozwal.to: 201 points (SQL Injection mission)
-CyberTalents.com: 400 points
+#### Hacking challenges
+- Hackthissite.org: 173 points (JavaScript mission)
+- Rozwal.to: 201 points (SQL Injection mission)
+- CyberTalents.com: 400 points
 
 
