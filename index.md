@@ -2,19 +2,19 @@
 
 ## About me
 
-I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18. Currently I work in technology company as Application Support Specialist mostly with CentOS (Linux), Oracle database, SQL.
+I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18. I was working in technology company as Application Support Specialist, then moved to gambling industry where I still work as a Junior SysOps.
 
 I have over 6 years of experience in several fields such as automotive, e-commerce, financial, pharmaceutic.
 
-When I'm not coding and hacking you'll find me running and practicing yoga.
+When I'm not coding and hacking you'll find me practicing yoga.
 
-I can describe myself as a self-reliant, flexible, very organized and self-motivated person.
+I can describe myself as a self-reliant, flexible and self-motivated person.
 
 I speak polish and english as well. I am also french language enthusiast.
 
-I was working in automotive, telecom, e-commerce, IT inducties. Currently I work for gambling & casinos industry.
+I was working in automotive, telecom, e-commerce, gambling & casinos, IT inducties.
 
-I have hands-on SysOps/DevOps experience as Linux System Administrator.
+I have hands-on SysOps/DevOps experience with Linux servers management (provisioning, troubleshooting, etc.), automation in Ansible, Bash and Python, cloud computing (GCP), networking (DNS, ReverseProxy, Load Balancing, routing, VPN and so on.
 
 ### Experienced with:
 - web development (Python, Django)
@@ -25,20 +25,19 @@ I have hands-on SysOps/DevOps experience as Linux System Administrator.
 - automation/configuration management (Ansible)
 - cloud computing platforms (AWS, GCP)
 - virtualization (VirtualBox)
-- orchestrization (Docker)
 - IT projects methodologies (Agile, Scrum, XP, Waterfall)
 - technical support in English
 - ticketing system/reporting (ServiceNow)
 - preparing technical documentation in English
-- software testing
+- software testing (Selenium)
 
 ### Knowledge about:
-- Linux hardening, security
-- Networking, TCP/IP, OSI, etc.
+- Linux hardening, web applications security
+- Networking
 - IT project management
-- basic automatization in Bash and Python
+- automation in Ansible, Bash and Python
 - virtualization with VirtualBox
-- pentesting using Kali Linux
+- pentesting tools (Burp Suite, Netcat, hashcat, nmap)
 
 
 ### Education
@@ -48,13 +47,11 @@ I have hands-on SysOps/DevOps experience as Linux System Administrator.
 
 ### MY PROJECTS
 
-##### CTF game web application
-Keywords: #Python, #Django, #GIT, #CaptureTheFlag
-
 ##### Blog about IT Security / Pentesting
 Keywords: #Threats #Vulnerabilities #PrentestingTools #OWASPTop10.
 
 ##### Blog Pythonistka
+[pythonistka.wordpress.com]
 Keywords: #Python, #Django, #GIT, #Cybersecurity_in_Python
 
 
@@ -65,11 +62,4 @@ Hackthissite.org: 173 points (JavaScript mission)
 Rozwal.to: 201 points (SQL Injection mission)
 CyberTalents.com: 400 points
 
-### MY SKILLS
-Languages: Python (Django, Flask), SQL, JavaScript(basics), Bash.
-Tools: Atom, IPython, GIT.
-
-#### Systems
-Windows 7/8/10  || 
-Linux: Ubuntu, CentOS, RedHat, Debian
 
