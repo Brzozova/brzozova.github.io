@@ -1,4 +1,6 @@
 
+![](profile_kasia.jpg)
+
 ## About me
 
 I'm self-taught passionate about IT world, but above all I'm interested in Python and cyber security. I started with relational databases and SQL. Then I took part in JavaScript workshops organized by `Girls.js` to discover I prefer to write a code. After workshops I join to local organisation called `Code for Poznań`, where I was able to complete Django workshops and start to develope. I was also a mentor at `DjangoGirls` workshops in August '18. I was working in technology company as `Application Support Specialist`, then moved to gambling industry where I still work as a `Junior SysOps`. I truly love my job, especially automate using `Ansible`, `Bash` and `Python`.
