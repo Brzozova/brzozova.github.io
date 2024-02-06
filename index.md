@@ -1,6 +1,5 @@
 
-<img src="brzozova-banner.png" alt="Brzozova" width="800" height="500">
-<br/>
+<img src="brzozova-banner.png" alt="Brzozova" width="800" height="350">
 
 # BIO
 
