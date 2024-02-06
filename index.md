@@ -1,4 +1,6 @@
-![Brzozova](brzozova.png)
+
+<img src="brzozova.png" alt="Brzozova" width="800" height="200">
+<br/>
 
 # BIO
 
@@ -32,5 +34,6 @@ She is actively contributeing to the tech community as:
 
 ## Social Media
 Feel free to reach out for collaborations or consultation.
-[![Linkedin](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/katarinabrzozowska/) [![Twitter](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg)](https://twitter.com/KatarzynaRossi) [![Medium](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg)](https://medium.com/@kbrzozova)
+<br/>
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="Linkedin" width="300" height="200" style="background-color: white; padding: 5px; border-radius: 5px;">](https://www.linkedin.com/in/katarinabrzozowska/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" alt="Medium" width="300" height="200" style="background-color: white; padding: 5px; border-radius: 5px;">](https://medium.com/@kbrzozova) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" alt="Twitter" width="300" height="200" style="background-color: white; padding: 5px; border-radius: 5px;">](https://twitter.com/KatarzynaRossi)
 <br/>
