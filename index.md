@@ -1,13 +1,14 @@
 
-<img src="brzozova.png" alt="Brzozova" width="800" height="200">
+<img src="brzozova.png" alt="Brzozova" width="400" height="50">
 <br/>
 
 # BIO
 
-Katarzyna is an IT professional, currently working as a DevSecOps Engineer at company leading in smart home security systems where she is focusing on applications, containers and cloud security. She has a strong Linux Admin & Cloud Engineer & Automation Engineer background. \
+Katarzyna is an IT professional, currently working as a DevSecOps Engineer at company leading in smart home security systems where she is focusing on applications, containers and cloud security. She has a strong Linux Admin & Cloud Engineer & Automation Engineer background.
 
-Previously, she was part of a team responsible for managing infrastructure of gaming platforms avaliable around the world in multiple jurisdictions. She was responsible for provisioning, configuring and securing crucial infrastructure parts such as network, Kubernetes clusters or Linux servers. Her big focus was also on incident response in major production issues providing quick diagnose and resolving issues related to server, applications, network and cyber attacks. \
-Cybersecurity, cryptocurrencies and the world of digital finances are her favorite topics. \
+Previously, she was part of a team responsible for managing infrastructure of gaming platforms avaliable around the world in multiple jurisdictions. She was responsible for provisioning, configuring and securing crucial infrastructure parts such as network, Kubernetes clusters or Linux servers. Her big focus was also on incident response in major production issues providing quick diagnose and resolving issues related to server, applications, network and cyber attacks.
+
+Cybersecurity, cryptocurrencies and the world of digital finances are her favorite topics.
 
 She is actively contributeing to the tech community as:
 * Mentor in [Django Girls](https://djangogirls.org/) and [Girls Code Fun](https://girlscodefun.pl/en/)
@@ -34,6 +35,8 @@ She is actively contributeing to the tech community as:
 
 ## Social Media
 Feel free to reach out for collaborations or consultation.
+
 <br/>
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="Linkedin" width="300" height="200" style="background-color: white; padding: 5px; border-radius: 5px;">](https://www.linkedin.com/in/katarinabrzozowska/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" alt="Medium" width="300" height="200" style="background-color: white; padding: 5px; border-radius: 5px;">](https://medium.com/@kbrzozova) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" alt="Twitter" width="300" height="200" style="background-color: white; padding: 5px; border-radius: 5px;">](https://twitter.com/KatarzynaRossi)
+<br/>
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="Linkedin">](https://www.linkedin.com/in/katarinabrzozowska/) [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Medium">](https://medium.com/@kbrzozova) [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter">](https://twitter.com/KatarzynaRossi)
 <br/>
